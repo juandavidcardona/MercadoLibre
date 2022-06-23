@@ -1,0 +1,19 @@
+/* 
+  Strings.strings
+  MercadoLibre
+
+  Created by Juan on 22/06/22.
+  
+*/
+
+"GENERAL_ERROR_TITLE" = "Se presentó un error";
+"GENERAL_ERROR_MESSAGE" = "Por favor intenta mas tarde";
+"GENERAL_FREE_SHIPPING" = "Envío gratis";
+
+// Home Strings
+"HOME_WELCOME_MESSAGE" = "Hola, encuentra miles de productos\n¿Qué quieres comprar hoy?";
+"HOME_SEARCH_PLACEHOLDER" = "Busca un producto";
+"HOME_SORT_RELEVANT_TITLE" = "Relevancia";
+"HOME_SORT_LOWER_PRICE_TITLE" = "Menos precio";
+"HOME_SORT_HIGHTER_PRICE_TITLE" = "Mayor precio";
+
